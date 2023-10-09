@@ -11,6 +11,7 @@ public class FormPage {
     public static final Target TXT_LAST_NAME = Target.the("Enter the information last name")
             .locatedBy("//input[@placeholder='Last Name']");
 //comentario
+//comentariodos
     public static final Target TXT_EMAIL = Target.the("Enter the information email")
             .locatedBy("//input[@placeholder='name@example.com']");
 
